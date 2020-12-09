@@ -56,11 +56,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@harshdeepkanhai](https://twitter.com/harshdeepkanhai)
 - LinkedIn: [harshdeepkanhai](https://linkedin.com/in/harshdeepkanhai)
 
-👤 **Author2**
+👤 **Josias Alvarado**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@pointerish](https://github.com/pointerish)
+- Twitter: [@pointerish](https://twitter.com/pointerish)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/josias-alvarado/)
 
 ## 🤝 Contributing
 
