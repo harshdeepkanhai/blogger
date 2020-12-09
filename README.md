@@ -1,18 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Blogger
 
-> One paragraph statement about the project.
+> A blog app in Rails
 
-![screenshot](./app_screenshot.png)
+<!-- ![screenshot](./app_screenshot.png) -->
 
-Additional description about the project and its features.
+Add articles, comments and images to articles in this blog
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby 2.7.0
+- Rails 6
+- paperclip gem
 
 ## Live Demo
 
@@ -21,20 +21,27 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- `ruby 2.7 (rbenv preferred)`
+- `bundle` gem installed
+- `rails` gem installed
+- `yarn` installed
+- `Imagemagick` installed for image upload to work
+
 ### Setup
+- clone the repo
 
 ### Install
-
+- `cd` into the repo
+- run `bundle install`
+- run `yarn`
+- run `rails db:migrate`
+- run `rails server`
 ### Usage
-
+- open `localhost:3000` on your browser to see the blog working
 ### Run tests
 
 ### Deployment
@@ -43,23 +50,23 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Harshdeep Kanhai**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@harshdeepkanhai](https://github.com/harshdeepkanhai)
+- Twitter: [@harshdeepkanhai](https://twitter.com/harshdeepkanhai)
+- LinkedIn: [harshdeepkanhai](https://linkedin.com/in/harshdeepkanhai)
 
-👤 **Author2**
+👤 **Josias Alvarado**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@pointerish](https://github.com/pointerish)
+- Twitter: [@pointerish](https://twitter.com/pointerish)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/josias-alvarado/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/harshdeepkanhai/blogger/issues).
 
 ## Show your support
 
@@ -67,9 +74,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Odin Project
+- Microverse
+- [Jumpstartlabs](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
 ## 📝 License
 
