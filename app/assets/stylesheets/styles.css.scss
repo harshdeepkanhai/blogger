@@ -2,14 +2,13 @@ $primary_color: rgb(174, 197, 161);
 
 body {
   background-color: $primary_color;
-  font: {
-    family: Verdana, Helvetica, Arial;
-    size: 14px;
-  }
+  font-family: verdana, helvetica, arial, sans-serif;
+  font-size: 14px;
 }
 
 a {
-  color: #0000FF;
+  color: #00f;
+
   img {
     border: none;
   }
