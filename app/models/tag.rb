@@ -1,6 +1,7 @@
 class Tag < ApplicationRecord
+  has_many :comments
   has_many :taggings
-  has_many :articles, through: :taggings
+  has_many :articles, through: :taggings, dependent: :destroy
 
   def to_s
     name
